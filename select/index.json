@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "Numbness like a ginger",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-04-02T14:17:51.475155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Numbness Like A Ginger",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_Numbness_Like_A_Ginger_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Numbness like a ginger",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/localdb_01_Numbness_like_a_ginger_UNISON_SQUARE_GARDEN.lrc",
+      "repo_name": "jYqZVpM1EJU"
+    }
+  ]
+}
